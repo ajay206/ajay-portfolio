@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sora Vale",
+      "hasCanvas": false,
+      "bodyTextLen": 481,
+      "bodyTextHash": "710df48c4d94d64bdbcd3b391563001d2020ec87a1abd18a319b7071d53d7a4a",
+      "bodyTextPrefix": "Skip to content SORA VALE EXPERIENCE PASSION PROJECTS STORIES SK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sora Vale",
+      "hasCanvas": false,
+      "bodyTextLen": 386,
+      "bodyTextHash": "f62d4d218058538dfd914568c83b083701968c91175e3a486e90bc1a0d753cc3",
+      "bodyTextPrefix": "Skip to content SORA VALE DIRECTOR · WRITER · CHARACTER DESIGNER",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
